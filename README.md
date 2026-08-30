@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Pravin!
 
-<!--
-**Pravin032007/Pravin032007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Aspiring+Cybersecurity+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pravin032007&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Pravin032007?label=FOLLOWERS&style=for-the-badge&color=blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+```text
+👨‍💻 B.Tech Computer Science & Engineering Student
+🔐 Interested in Cybersecurity
+🤖 Exploring Artificial Intelligence & Machine Learning
+🌐 Building Full Stack Web Applications
+💡 Love solving real-world problems with technology
+🚀 Always learning something new
